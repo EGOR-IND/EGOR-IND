@@ -8,10 +8,10 @@ I am a developer who is passionate about application development.
     <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="50px" alt="linkedin">
   </a> &nbsp; &nbsp; 
   <a href="https://github.com/EGOR-IND" rel="nofollow noreferrer">
-     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50px" alt="github">
+     <img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="50px" alt="github">
   </a> &nbsp; &nbsp; 
   <a href="https://twitter.com/kinar_sharma" rel="nofollow noreferrer">
-     <img src="https://i.pinimg.com/474x/ee/4b/ec/ee4bec98e284c251b885707a470ad3b8.jpg" width="50px" alt="twitter">
+     <img src="https://i.pinimg.com/originals/28/90/ba/2890bac9ba41e52707f36268231dfe9e.png" width="50px" alt="twitter">
   </a>
   
 <br />
