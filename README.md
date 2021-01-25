@@ -15,10 +15,10 @@ I am a developer who is passionate about application development.
     <br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/EGOR-IND/resume/pull/1) in [manakmishra/resume](https://github.com/EGOR-IND/resume)
-2. ❌ Reopened PR [#1](https://github.com/EGOR-IND/resume/pull/1) in [manakmishra/resume](https://github.com/EGOR-IND/resume)
-3. ❌ Closed PR [#1](https://github.com/EGOR-IND/resume/pull/1) in [manakmishra/resume](https://github.com/EGOR-IND/resume)
-4. 💪 Opened PR [#1](https://github.com/EGOR-IND/resume/pull/1) in [manakmishra/resume](https://github.com/EGOR-IND/resume)
+1. 🎉 Merged PR [#1](https://github.com/EGOR-IND/resume/pull/1) in [EGOR-IND/resume](https://github.com/EGOR-IND/resume)
+2. ❌ Reopened PR [#1](https://github.com/EGOR-IND/resume/pull/1) in [EGOR-IND/resume](https://github.com/EGOR-IND/resume)
+3. ❌ Closed PR [#1](https://github.com/EGOR-IND/resume/pull/1) in [EGOR-IND/resume](https://github.com/EGOR-IND/resume)
+4. 💪 Opened PR [#1](https://github.com/EGOR-IND/resume/pull/1) in [EGOR-IND/resume](https://github.com/EGOR-IND/resume)
 5. ❗️ Opened issue [#1277](https://github.com/JonathanGin52/JonathanGin52/issues/1277) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
 <!--END_SECTION:activity-->
 
