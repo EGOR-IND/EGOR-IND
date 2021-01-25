@@ -4,8 +4,13 @@ I am a developer who is passionate about application development.
 <!-- blank line -->
 ## Connect with me!
 
-<!--[<img align="left" alt="manakmishra.github.io" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
-[<img align="left" alt="Kinar Sharma | LinkedIn" width="32px" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  <a href="https://www.linkedin.com/in/kinar-sharma-a39b45190/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/EGOR-IND" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  </a>
+  
 <br />
 <br />
 ---
