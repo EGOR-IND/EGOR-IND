@@ -14,7 +14,7 @@ I am a developer who is passionate about application development.
     <summary>⚡ My GitHub Stats </summary>
     <br>
     <p align="center">
-        [![EGOR's github stats](https://github-readme-stats.vercel.app/api?username=EGOR-IND)](https://github.com/anuraghazra/github-readme-stats)
+        <img src="https://github.com/anuraghazra/github-readme-stats/api?username=EGOR_IND&show_icons=true&theme=radical"/>
     </p>
 </details>
 <!-- blank line -->
