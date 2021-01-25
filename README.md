@@ -5,10 +5,10 @@ I am a developer who is passionate about application development.
 ## Connect with me!
 
   <a href="https://www.linkedin.com/in/kinar-sharma-a39b45190/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+    <img src="https://i.stack.imgur.com/gVE0j.png" width="32px" alt="linkedin"> LinkedIn
   </a> &nbsp; 
   <a href="https://github.com/EGOR-IND" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+    <img src="https://i.stack.imgur.com/tskMh.png" width="32px" alt="github"> Github
   </a>
   
 <br />
