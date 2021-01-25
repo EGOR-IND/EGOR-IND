@@ -11,7 +11,7 @@ I am a developer who is passionate about application development.
      <img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="50px" alt="github">
   </a> &nbsp; &nbsp; 
   <a href="https://twitter.com/kinar_sharma" rel="nofollow noreferrer">
-     <img src="https://i.pinimg.com/originals/28/90/ba/2890bac9ba41e52707f36268231dfe9e.png" width="50px" alt="twitter">
+     <img src="https://cdn.iconscout.com/icon/free/png-256/twitter-213-569318.png" width="50px" alt="twitter">
   </a>
   
 <br />
