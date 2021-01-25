@@ -8,7 +8,7 @@ I am a developer who is passionate about application development.
     <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="40px" alt="linkedin"> LinkedIn
   </a> &nbsp; 
   <a href="https://github.com/EGOR-IND" rel="nofollow noreferrer">
-    <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="40px" alt="github"> Github
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40px" alt="github"> Github
   </a>
   
 <br />
