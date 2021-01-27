@@ -38,7 +38,8 @@ As I mentioned in the heading of this section that I'm learning Web App developm
     <summary>⚡ My GitHub Stats </summary>
     <br>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=EGOR-IND&count_private=true&show_icons=true&theme=radical"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=EGOR-IND&count_private=true&show_icons=true&theme=radical"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EGOR-IND&layout=compact&theme=radical"/>
     </p>
 </details>
 <!-- blank line -->
