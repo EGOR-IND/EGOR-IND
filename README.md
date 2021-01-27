@@ -1,6 +1,22 @@
 # Hi there, I am Kinar(EGOR-IND) 👋
 
-I am a developer who is passionate about application development.
+I am a developer who is passionate about application development, I mean any type of application, but currently I'm comfortable in working with below mentioned technologies.
+
+#### Android Development
+- JAVA
+- Kotlin( learning)
+- Firebase for database
+- SQL for database(learning)
+
+#### Web App Development(learning)
+- HTML5
+- CSS
+- Vanilla JS(if you know what I mean)
+- jquery
+- AJAX
+
+As I mentioned in the heading of this section that I'm learning Web App development, so I'll keep updating the list of the skills I'm learning.
+
 <!-- blank line -->
 ## Connect with me!
 
