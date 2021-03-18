@@ -15,8 +15,6 @@ Technologies: {
 "Editors": ["VSCode"],
 "IDE": ["Eclipse"],
 },
-Experience: [""],
-Acheivement: [""],
 Skills: ["Team Building", "Decision Making",
           "Problem Solving", "Time Management", "Quick Learner"],
 Interest: [
