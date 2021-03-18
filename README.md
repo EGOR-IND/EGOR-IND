@@ -8,19 +8,21 @@ Name: "Kinar Sharma",
 Pronouns: "He" | "Him",
 Education: "Bachelor of Technology, LNM Institute of Information technology, Jaipur, India",
 Technologies: {
-"Technical skills" : [ "Android Development" ],
-"Tools and Technologies": [ "Git", "Github", "Android Studio" ],
-"Databases": [ "Firebase Database", "SQLite", "MySQL" ]
-"Operating System": ["Ubuntu"],
-"Editors": ["VSCode"],
-"IDE": ["Eclipse"],
-},
-Skills: ["Team Building", "Decision Making",
-          "Problem Solving", "Time Management", "Quick Learner"],
+    "Technical skills" : [ "Android Development" ],
+    "Tools and Technologies": [ "Git", "Github", "Android Studio" ],
+    "Databases": [ "Firebase Database", "SQLite", "MySQL" ],
+    "Operating System": ["Ubuntu"],
+    "Editors": ["VSCode"],
+    "IDE": ["Eclipse"],
+    },
+Skills: [
+    "Team Building", "Decision Making",
+    "Problem Solving", "Time Management", "Quick Learner"
+    ],
 Interest: [
-    "Reading Books", "Technology", "Movies n Series"
-    "Music", "FPS gaming" 
-]
+    "Reading Blogs n Articles", "Technology",
+    "Movies n Series", "Music", "FPS gaming" 
+    ]
 });
 ```
 - 👯 I’m looking to collaborate on Advanced Android Projects in Java & Kotlin.
